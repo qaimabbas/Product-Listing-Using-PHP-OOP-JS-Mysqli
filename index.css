@@ -1,0 +1,51 @@
+body{
+    font-family: 'Playfair Display', serif;
+    background-color: #595b83;
+    color: azure;
+}
+.form-control{
+    width: 250px;
+
+    height: 20px;
+}
+.form-group{
+    margin-left: 20%;
+}
+.c{
+    margin-left: 80%;
+}
+.s{
+    position: absolute;
+    top: 54px;
+    left: 70%;
+}
+.ss{
+    position: absolute;
+    top: 55px;
+    left: 70%;
+}
+.product{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: bisque;
+    display: inline-flex;
+    
+}
+
+#description{
+     color: brown;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
